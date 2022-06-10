@@ -1,6 +1,6 @@
 ## Name: Leye Oduola
 
-My name is Leye Oduola and i'm a software developer currently working an intership with a company called Jeeni. I completed a bootcamp with Makers to jumpstart and give me confidence in my abilty to pursue a career in tech. What i love about tech is that it is the future of the world and even seeing the changes right in front of our own eyes, and it is only just the beginning. It has endless oppertunites as it could be applied in any industry, I belive this is skill worth knowing and understanding as it gives a sense of empowerment the as you can bring your ideas to real life. 
+My name is Leye Oduola and i'm a software developer currently working an intership with a company called Jeeni. I completed a bootcamp with Makers to jumpstart and give me confidence in my abilty to pursue a career in tech. What i love about tech is that it is the future of the world and even seeing the changes right in front of our own eyes, and it is only just the beginning. It has endless oppertunites as it could be applied in any industry, I belive this is skill worth knowing and understanding as it gives a sense of empowerment to yourself as you can bring your ideas to real life. 
 
 ## Projects
 
