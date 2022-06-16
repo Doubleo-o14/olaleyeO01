@@ -24,8 +24,8 @@ _customer service_
 
 ## Skills
 
-. I have strong collaboration and communication skills that mean I'm able to work effectively and harmoniously with other people.
-. Very quick learner which allows me to adapt quickly and work in fast paced enviorments.
+- I have strong collaboration and communication skills that mean I'm able to work effectively and harmoniously with other people.
+- Very quick learner which allows me to adapt quickly and work in fast paced enviorments.
 
 ## Education
 
