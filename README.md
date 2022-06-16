@@ -24,9 +24,8 @@ _customer service_
 
 ## Skills
 
-I would say i am a good team player.
-
-There was a situation where i was working and i could see a customer was being quite rude to one of the staff members. I could tell that my fellow staff members was very annoyed so I took the initiative and told my staff member to swap roles with me so i could handle that customers order so he dosen't have to deal with him,  which allowed my staff member to cool down and carry on being full productive for the day.
+. I have strong collaboration and communication skills that mean I'm able to work effectively and harmoniously with other people.
+. Very quick learner which allows me to adapt quickly and work in fast paced enviorments.
 
 ## Education
 
