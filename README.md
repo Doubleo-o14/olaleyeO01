@@ -12,7 +12,7 @@ My name is Leye Oduola and i'm a software developer currently working an intersh
 
 ## Work Experience
 
-**jeeni** (march 2020 - present)
+**jeeni** (march 2022 - september 2022)
 _full stack developer_
 
 - My role in this company being apart of the development team is to help realese a new website for the company. We use the language PHP and the framework Laravel, In my role i have been testing for the bugs which are found through code review and helping to meet the user stories requirement during developement.
